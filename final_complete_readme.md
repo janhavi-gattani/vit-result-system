@@ -1057,6 +1057,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ### 🎓 Made for VIT Students
 
+https://claude.ai/share/f0663ea1-42f8-4cd7-9540-756e18fc890c
+
 **⭐ If this project helped you, please star it on GitHub!**
 
 </div>
